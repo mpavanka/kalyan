@@ -4,8 +4,7 @@ public class LocalDate {
 
 	public static void main(String[] args)
 	{
-		String s = new String();
-		s = "hello frnds";
-		System.out.println(s);
+		int i = 10 ;
+		System.out.println(i);
 	}
 }
